@@ -3,8 +3,7 @@
 The purpose of this very simple SPA (Single Page Application) is to show a very simple way to implement useState in your project by sending date from a child component to the parent component.
 
 ## Live Demo
-[View Demo]([https://choosealicense.com/licenses/mit/](https://edwinaquino.github.io/Ionic-React-useState-Hook-Example/))
-
+[View Demo](https://edwinaquino.github.io/Ionic-React-useState-Hook-Example)
 
 ## Usage
 
